@@ -212,4 +212,4 @@ The Japanese government has declared a state of emergency for the following pref
 *   Targeted prefectures: Tokyo, Osaka, Hyogo, Kyoto, Aichi, Fukuoka, Hokkaido, Okayama, Hiroshima,Okinawa
 *   Period: until June 20th, 2021
 
-0.32370376782965926
+0.39461149545990626
