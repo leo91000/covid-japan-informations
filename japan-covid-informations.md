@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: June 10, 2021
+Last updated: June 11, 2021
 
 ### Table of Contents
 
@@ -211,4 +211,8 @@ The Japanese government has declared a state of emergency for the following pref
 
 *   Targeted prefectures: Tokyo, Osaka, Hyogo, Kyoto, Aichi, Fukuoka, Hokkaido, Okayama, Hiroshima,Okinawa
 *   Period: until June 20th, 2021
+
+### [Covid-19: New Normal Travel in Japan](https://www.japan.travel/en/practical-coronavirus-information/)
+
+ [![](https://res.cloudinary.com/jnto/image/upload/w_720,h_218,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/c1/ef/c1efe731-88d0-4667-9dae-dcba59ad6f27/img_covid_top_agalhe)](https://www.japan.travel/en/practical-coronavirus-information/) 
 
