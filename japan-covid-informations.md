@@ -23,6 +23,8 @@ Last updated: June 21, 2021
 
 [8\. State of emergency](https://www.japan.travel/en/coronavirus/#state)
 
+All coronavirus-related information on this website is gathered from the government ministries and authorities responsible for handling COVID-19 restrictions and measures. Due to the regularly changing situation and the constant updating of information, it is essential that you always check for updates and follow the latest guidance from the relevant ministries and official bodies.
+
 ### Measures by the Government of Japan
 
 **1\. Areas subjected to entry ban**
@@ -207,10 +209,10 @@ For more information, please check the following page.
 
 **8\. State of emergency**
 
-The Japanese government has declared a state of emergency for the following prefectures.
+The Japanese government has declared a state of emergency for the following prefecture.
 
-*   Targeted prefectures: Tokyo, Osaka, Hyogo, Kyoto, Aichi, Fukuoka, Hokkaido, Okayama, Hiroshima,Okinawa
-*   Period: until June 20th, 2021
+*   Targeted prefectures: Okinawa
+*   Period: until July 11th, 2021
 
 ###  [![](https://res.cloudinary.com/jnto/image/upload/w_720,h_239,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/4e/83/4e836fa4-0a84-4913-a383-2b7b46339de1/banner_sample2_hr1xwn)](/en/practical-coronavirus-information/) 
 
