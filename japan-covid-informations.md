@@ -9,7 +9,7 @@ Last updated: July 12, 2021
 
 [1\. Areas subjected to entry ban](https://www.japan.travel/en/coronavirus/#entry_ban)
 
-[2\. Denial of the re-entry from countries/regions with high concern of coronavirus variant (B.1.617) confirmed for the first time in India](https://www.japan.travel/en/coronavirus/#re-entry)
+[2\. Denial of the re-entry from certain countries/regions designated in response to coronavirus variants of special concern on border measures](https://www.japan.travel/en/coronavirus/#re-entry)
 
 [3\. Quarantine measures](https://www.japan.travel/en/coronavirus/#quarantine)
 
@@ -67,9 +67,9 @@ The Government of Japan announced “Phased Measures for Resuming Cross-Border T
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/cp/page22e\_000925.html#section1](https://www.mofa.go.jp/ca/cp/page22e_000925.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
-**2\. Denial of the re-entry from countries/regions with high concern of coronavirus variant (B.1.617) confirmed for the first time in India**
+**2\. Denial of the re-entry from certain countries/regions designated in response to coronavirus variants of special concern on border measures**
 
-The re-entry into Japan of foreign nationals with status of residence who have stayed in countries/regions with high concern of coronavirus variant (B.1.617) confirmed for the first time in India within 14 days prior to the application for landing are denied for the time being unless there are special exceptional circumstances.
+The re-entry into Japan of foreign nationals with status of residence who have stayed in certain countries/regions designated in response to coronavirus variants of special concern on border measures within 14 days prior to the application for landing are denied for the time being unless there are special exceptional circumstances.
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section2](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section2) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
