@@ -211,8 +211,13 @@ For more information, please check the following page.
 
 The Japanese government has declared a state of emergency for the following prefectures.
 
-*   Targeted prefectures: Okinawa, Tokyo (from July 12th)
-*   Period: until August 22nd, 2021
+*   Targeted prefectures:
+
+Okinawa, Tokyo
+
+Chiba, Kanagawa, Saitama, Osaka (from August 2nd, 2021)
+
+*   Period: until August 31st, 2021
 
 ###  [![](https://res.cloudinary.com/jnto/image/upload/w_720,h_239,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/4e/83/4e836fa4-0a84-4913-a383-2b7b46339de1/banner_sample2_hr1xwn)](/en/practical-coronavirus-information/) 
 
