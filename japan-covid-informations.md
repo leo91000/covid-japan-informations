@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: July 31, 2021
+Last updated: August 1, 2021
 
 ### Table of Contents
 
