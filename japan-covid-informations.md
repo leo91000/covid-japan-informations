@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: September 14, 2021
+Last updated: September 15, 2021
 
 ### Table of Contents
 
