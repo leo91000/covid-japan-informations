@@ -152,7 +152,7 @@ For details, please check the following page.
 
 **5\. Suspension of visa exemption measures**
 
-As visa exemption measures with the countries and regions listed below are now suspended.
+Visa exemption measures with the countries and regions listed below are now suspended.
 
 (1) Visa exemption measures agreed with Japan and the following countries and regions
 
