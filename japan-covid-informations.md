@@ -9,7 +9,7 @@ Last updated: October 5, 2021
 
 [1\. Areas subjected to entry ban](https://www.japan.travel/en/coronavirus/#entry_ban)
 
-[2\. Denial of the re-entry from certain countries/regions designated in response to coronavirus variants of special concern on border measures](https://www.japan.travel/en/coronavirus/#re-entry)
+[2\. Denial of the re-entry from designated countries/regions in response to COVID-19 variants of special treatment on border measures](https://www.japan.travel/en/coronavirus/#re-entry)
 
 [3\. Quarantine measures](https://www.japan.travel/en/coronavirus/#quarantine)
 
@@ -29,9 +29,8 @@ All coronavirus-related information on this website is gathered from the governm
 
 **1\. Areas subjected to entry ban**
 
-Foreign nationals categorized below are denied permission to enter Japan for the time being, unless there are exceptional circumstances.
-
-Foreign nationals who have stayed in any of the areas listed in the following table within 14 days prior to the application for landing.
+For the time being, foreign nationals who have stayed in any of the areas listed in the following table within 14 days prior to the application for landing are denied to enter Japan, unless special exceptional circumstances are found.   
+Note that foreigners from the countries/regions where the entry bans do not apply are not denied to enter Japan, even when traveling via those countries/regions listed in the table for refueling or transit purpose. Those who entered those countries/regions are, however, subject to the entry ban.
 
 Asia
 
@@ -67,9 +66,9 @@ The Government of Japan announced “Phased Measures for Resuming Cross-Border T
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/cp/page22e\_000925.html#section1](https://www.mofa.go.jp/ca/cp/page22e_000925.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
-**2\. Denial of the re-entry from certain countries/regions designated in response to coronavirus variants of special concern on border measures**
+**2\. Denial of the re-entry from designated countries/regions in response to COVID-19 variants of special treatment on border measures**
 
-The re-entry into Japan of foreign nationals with status of residence who have stayed in certain countries/regions designated in response to coronavirus variants of special concern on border measures within 14 days prior to the application for landing are denied for the time being unless there are special exceptional circumstances.
+The re-entry into Japan of foreign nationals with status of residence who have stayed in designated countries/regions in response to coronavirus variants of special treatment on border measures within 14 days prior to the application for landing are denied for the time being, unless there are special exceptional circumstances.
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section2](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section2) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
@@ -83,7 +82,7 @@ For more information, please check the following page.
 
 **4\. Suspension of visa validity**
 
-Validity of visas listed below is suspended.
+Validity of visas listed below is suspended for the time being.
 
 (1) Single and multiple-entry visas issued by March 8th, 2020 by Japanese Embassies or Consulates General in China (including Hong Kong and Macau) and Republic of Korea
 
@@ -143,16 +142,15 @@ Africa
 
 Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cabo Verde, Central African Republic, Chad, Comoros, Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles , Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe
 
-(5) From 12:00 am (JST) on January 21st, 2021, the validity of visas already issued under “Business Track” or “Residence Track” and visas issued based on “New measures for border enforcement” is suspended.
-
-The measure described in paragraph 4 (1) - (5) will be implemented for the time being.
+(5) From 12:00 am (Midnight/JST) on January 21st, 2021, the validity of visas already issued under “Business Track” or “Residence Track” and visas issued based on “New measures for border enforcement(4)” is suspended.
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section4](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section4) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **5\. Suspension of visa exemption measures**
 
-Visa exemption measures with the countries and regions listed below are now suspended.
+As visa exemption measures with the countries/regions listed below are temporarily suspended, those who fall under the measures are required to obtain visas before visiting Japan.   
+The measures will be in place for the time being.
 
 (1) Visa exemption measures agreed with Japan and the following countries and regions
 
@@ -184,8 +182,6 @@ Lesotho, Tunisia
 
 Australia, Brunei, China, Hong Kong, Indonesia, Republic of Korea, Malaysia, Mexico, New Zealand, Papua New Guinea, Peru, Philippines, Russia, Singapore, Taiwan, Thailand, Viet Nam
 
-The measure described in paragraph 5 (1)(2) will be implemented for the time being.
-
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section5](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section5) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
@@ -200,9 +196,8 @@ For more information, please check the following page.
 
 **7\. Entry of foreign nationals with special exceptional circumstances**
 
-Currently, in most cases, foreign nationals who wish to newly enter Japan need to apply for a visa.
-
-Please apply for an appropriate visa at Embassies or Consulates or Consular Office of Japan (for Taiwan, Taipei Kaohsiung offices of Japan-Taiwan Exchange Association) in your country/region.
+Currently, all foreign nationals who wish to newly enter Japan need to apply for a visa except for those with re-entry permit.  
+Foreign nationals who are entitled to enter Japan as those with special exceptional circumstances are required to apply for an appropriate visa at Embassies or Consulates or Consular Office of Japan (for Taiwan, Taipei Kaohsiung offices of Japan-Taiwan Exchange Association) in your country/region.
 
 For more information, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section7](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section7) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
