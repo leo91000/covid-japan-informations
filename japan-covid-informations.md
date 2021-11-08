@@ -36,6 +36,10 @@ Asia
 
 Bangladesh, Bhutan, Cambodia, India, Indonesia, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Timor-Leste
 
+Oceania
+
+Fiji
+
 North America
 
 Canada, United States of America
@@ -54,7 +58,7 @@ Afghanistan, Bahrain, Israel, Iran, Iraq, Jordan, Kuwait, Lebanon, Oman, Palesti
 
 Africa
 
-Algeria, Botswana, Cabo Verde, Cameroon, Central Africa, Comoros, Cote d’lvoire, Democratic Republic of Congo, Djibouti, Egypt, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritania, Mauritius, Morocco, Namibia, Nigeria, Republic of Congo, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tunisia, Zambia, Zimbabwe
+Algeria, Botswana, Cabo Verde, Cameroon, Central Africa, Comoros, Cote d’lvoire, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritania, Mauritius, Morocco, Namibia, Nigeria, Republic of Congo, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tunisia, Zambia, Zimbabwe
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section1](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
