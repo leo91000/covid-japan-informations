@@ -68,7 +68,7 @@ The Government of Japan announced “Phased Measures for Resuming Cross-Border T
 (temporarily suspended from January 14th, 2021)
 
 For details, please check the following page.  
-[https://www.mofa.go.jp/ca/cp/page22e\_000925.html#section2](https://www.mofa.go.jp/ca/cp/page22e_000925.html#section2) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+[https://www.mofa.go.jp/ca/cp/page22e\_000925.html#section1](https://www.mofa.go.jp/ca/cp/page22e_000925.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **2\. Denial of the re-entry from designated countries/regions in response to COVID-19 variants of special treatment on border measures**
 
