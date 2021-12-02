@@ -58,7 +58,7 @@ Afghanistan, Bahrain, Israel, Iran, Iraq, Jordan, Kuwait, Lebanon, Oman, Palesti
 
 Africa
 
-Algeria, Botswana, Cabo Verde, Cameroon, Central Africa, Comoros, Cote d’lvoire, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritania, Mauritius, Morocco, Namibia, Nigeria, Republic of Congo, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tunisia, Zambia, Zimbabwe
+Algeria, Angola, Botswana, Cabo Verde, Cameroon, Central Africa, Comoros, Cote d’lvoire, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Nigeria, Republic of Congo, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tunisia, Zambia, Zimbabwe
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section1](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
@@ -78,6 +78,8 @@ For more information, please check the following page.
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section3](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section3) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **4\. Suspension of visa validity**
+
+From 12:00 am (Midnight/JST) December 2, 2021 to December 31, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended except for the status of residence of “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”.
 
 Validity of visas listed below is suspended for the time being.
 
