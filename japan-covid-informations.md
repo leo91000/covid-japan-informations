@@ -63,13 +63,6 @@ Algeria, Botswana, Cabo Verde, Cameroon, Central Africa, Comoros, Cote d’lvoir
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section1](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
-The Government of Japan announced “Phased Measures for Resuming Cross-Border Travel” whereby it intends to establish a special quota pertaining to cross-border business travelers and others for entry into and departure from Japan, that operates separately from general procedures for cross-border travelers.
-
-(temporarily suspended from January 14th, 2021)
-
-For details, please check the following page.  
-[https://www.mofa.go.jp/ca/cp/page22e\_000925.html#section2](https://www.mofa.go.jp/ca/cp/page22e_000925.html#section2) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
-
 **2\. Denial of the re-entry from designated countries/regions in response to COVID-19 variants of special treatment on border measures**
 
 The re-entry into Japan of foreign nationals with status of residence who have stayed in designated countries/regions in response to coronavirus variants of special treatment on border measures within 14 days prior to the application for landing are denied for the time being, unless there are special exceptional circumstances.
