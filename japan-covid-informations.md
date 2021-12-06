@@ -79,7 +79,7 @@ For more information, please check the following page.
 
 **4\. Suspension of visa validity**
 
-From 12:00 am (Midnight/JST) December 2, 2021 to December 31, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended except for the status of residence of “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”.
+From 12:00 am (Midnight/JST) December 2, 2021 to December 31, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended except for the status of residence of “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”. This measure does not apply to foreign nationals who departed from overseas before 12:00 am (Midnight/JST) on December 2, 2021 and arrive in Japan after the time.
 
 Validity of visas listed below is suspended for the time being.
 
