@@ -81,6 +81,8 @@ For more information, please check the following page.
 
 From 12:00 am (Midnight/JST) December 2, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended except for the status of residence of “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”. This measure does not apply to foreign nationals who departed from overseas before 12:00 am (Midnight/JST) on December 2, 2021 and arrive in Japan after the time.
 
+As for visas already issued under “Business Track” or “Residence Track” and visas issued based on “New measures for border enforcement (4)” , for the time being, validity of those visas has been suspended from 12:00 am (Midnight/JST) on January 21, 2021, based on the announcement of the Government of Japan dated on January 13, 2021.
+
 Validity of visas listed below is suspended for the time being.
 
 (1) Single and multiple-entry visas issued by March 8th, 2020 by Japanese Embassies or Consulates General in China (including Hong Kong and Macau) and Republic of Korea
@@ -141,8 +143,6 @@ Africa
 
 Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cabo Verde, Central African Republic, Chad, Comoros, Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles , Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe
 
-(5) From 12:00 am (Midnight/JST) on January 21st, 2021, the validity of visas already issued under “Business Track” or “Residence Track” and visas issued based on “New measures for border enforcement(4)” is suspended.
-
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section4](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section4) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
@@ -179,7 +179,21 @@ Lesotho, Tunisia
 
 (2) The effect of Pre-Clearances (i.e. visa exemptions) granted by the Japanese Government to APEC Business Travel Card (ABTC) issued by the following countries and regions is also suspended.
 
-Australia, Brunei, China, Hong Kong, Indonesia, Republic of Korea, Malaysia, Mexico, New Zealand, Papua New Guinea, Peru, Philippines, Russia, Singapore, Taiwan, Thailand, Viet Nam
+Asia
+
+Brunei, China, Hong Kong, Indonesia, Republic of Korea, Malaysia, Philippines, Singapore, Taiwan, Thailand, Viet Nam
+
+Oceania
+
+Australia, New Zealand, Papua New Guinea
+
+Latin America and the Caribbean
+
+Mexico, Peru
+
+Europe
+
+Russia
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section5](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section5) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
