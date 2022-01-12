@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: December 27, 2021
+Last updated: January 12, 2021
 
 ### Table of Contents
 
@@ -144,7 +144,7 @@ Africa
 Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cabo Verde, Central African Republic, Chad, Comoros, Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles , Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe
 
 For details, please check the following page.  
-[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section4](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section4) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section8](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section8) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **5\. Suspension of visa exemption measures**
 
@@ -196,7 +196,7 @@ Europe
 Russia
 
 For details, please check the following page.  
-[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section5](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section5) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section9](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section9) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **6\. Restrictions on airports/ports for arrival**
 
@@ -205,7 +205,7 @@ The Government of Japan announced some measures concerning arrivals at airports/
 These measures will be in place for the time being.
 
 For more information, please check the following page.  
-[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section6](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section6) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section10](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section10) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **7\. Entry of foreign nationals with special exceptional circumstances**
 
@@ -213,7 +213,7 @@ Currently, all foreign nationals who wish to newly enter Japan need to apply for
 Foreign nationals who are entitled to enter Japan as those with special exceptional circumstances are required to apply for an appropriate visa at Embassies or Consulates or Consular Office of Japan (for Taiwan, Taipei Kaohsiung offices of Japan-Taiwan Exchange Association) in your country/region.
 
 For more information, please check the following page.  
-[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section7](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section7) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+[https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section11](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section11) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 **8\. State of emergency**
 
