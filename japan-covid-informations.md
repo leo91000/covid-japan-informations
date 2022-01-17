@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: January 11, 2022
+Last updated: January 15, 2022
 
 ### Table of Contents
 
@@ -81,7 +81,7 @@ For more information, please check the following page.
 
 From 12:00 am (Midnight/JST) December 2, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended except for the status of residence of “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”. This measure does not apply to foreign nationals who departed from overseas before 12:00 am (Midnight/JST) on December 2, 2021 and arrive in Japan after the time.
 
-As for visas already issued under “Business Track” or “Residence Track” and visas issued based on “New measures for border enforcement (4)” , for the time being, validity of those visas has been suspended from 12:00 am (Midnight/JST) on January 21, 2021, based on the announcement of the Government of Japan dated on January 13, 2021.
+As for visas already issued under “Business Track” or “Residence Track” and visas issued based on “New border measures (4)” , for the time being, validity of those visas has been suspended from 12:00 am (Midnight/JST) on January 21, 2021, based on the announcement of the Government of Japan dated on January 13, 2021.
 
 Validity of visas listed below is suspended for the time being.
 
