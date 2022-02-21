@@ -25,6 +25,8 @@ Last updated: February 17, 2022
 
 [9\. Visit Japan Web](https://www.japan.travel/en/coronavirus/#vjw)
 
+[10\. Installation of apps and other requirements upon entry into Japan](https://www.japan.travel/en/coronavirus/#apps)
+
 All coronavirus-related information on this website is gathered from the government ministries and authorities responsible for handling COVID-19 restrictions and measures. Due to the regularly changing situation and the constant updating of information, it is essential that you always check for updates and follow the latest guidance from the relevant ministries and official bodies.
 
 ### Measures by the Government of Japan
@@ -230,6 +232,20 @@ The state of emergency was fully lifted on October 1st, 2021.
 Visit Japan Web is a web service that visitors (including Japanese and the foreigners who have reentry permits) can use for quarantine, immigration and customs procedures in order to enter Japan.
 
 [https://www.digital.go.jp/en/services/visit\_japan\_web](https://www.digital.go.jp/en/services/visit_japan_web) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+
+**10\. Installation of apps and other requirements upon entry into Japan**
+
+*   Installation of MySOS, the Health and Location Monitoring App
+
+(It will be used to confirm your current location, health condition, and accommodation)
+
+*   Setting up your smartphone to save location records
+*   Installation of COCOA, the COVID-19 Contact Confirming App
+
+(It will be used to notify you of possible contact with someone who is COVID-19 positive)
+
+For more details, please check the following.  
+[https://www.hco.mhlw.go.jp/manual/pdf-en/summary.pdf](https://www.hco.mhlw.go.jp/manual/pdf-en/summary.pdf) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 ###  [![](https://res.cloudinary.com/jnto/image/upload/w_720,h_239,c_fill,f_auto,fl_lossy,q_auto/v1/media/filer_public/4e/83/4e836fa4-0a84-4913-a383-2b7b46339de1/banner_sample2_hr1xwn)](/en/practical-coronavirus-information/) 
 
