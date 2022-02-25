@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: February 17, 2022
+Last updated: February 24, 2022
 
 ### Table of Contents
 
@@ -77,6 +77,10 @@ For details, please check the following page.
 **3\. Quarantine measures**
 
 The current quarantine measures are strengthened and are decided to remain in place until further notice.
+
+From March 1, 2022, self-quarantine period after their entry into Japan is changed. All cross-border travelers and returnees from countries/regions where the B.1.1.529 Omicron variant becomes dominant are required to self-quarantine, to take follow-up checks, and to refrain from using public transportation for 7 days in principle.
+
+Based on whether they enter/return from designated countries/regions and obtain a valid COVID-19 vaccination certificate, the measures may be relaxed.
 
 For more information, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section3](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section3) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
