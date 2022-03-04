@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: February 28, 2022
+Last updated: March 2, 2022
 
 ### Table of Contents
 
@@ -219,9 +219,6 @@ For more information, please check the following page.
 
 Currently, all foreign nationals who wish to newly enter Japan need to apply for a visa except for those with re-entry permit.
 
-From 12:00 am (Midnight/JST) December 2, 2021, as an emergency precautionary measure from a preventive perspective, cases for entry of foreign nationals with other special exceptional circumstances were changed.
-
-  
 Foreign nationals who are entitled to enter Japan as those with special exceptional circumstances are required to apply for an appropriate visa at Embassies or Consulates or Consular Office of Japan (for Taiwan, Taipei Kaohsiung offices of Japan-Taiwan Exchange Association) in your country/region.
 
 For more information, please check the following page.  
