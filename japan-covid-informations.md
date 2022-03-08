@@ -31,6 +31,28 @@ All coronavirus-related information on this website is gathered from the governm
 
 ### Measures by the Government of Japan
 
+**Information about entry into Japan**
+
+**New entry of foreign nationals**  
+From 12:00 am (Midnight/JST) on March 1, 2022, new entry of foreign nationals into Japan under the supervision of receiving organizations is allowed, except for those with touristic purposes.
+
+Persons who meet both (1) and (2) below are eligible:  
+(1) Foreign nationals newly entering Japan for a short-term stay (less than three months) for purposes such as business and employment, or foreign nationals newly entering Japan for a long-term stay.  
+(2) Foreign nationals who have receiving organizations for supervision located in Japan.  
+Receiving organizations mean such companies or organizations which employ or invite the entrants for their business or entertainment purposes.  
+For further information of the new measure, please refer to the paragraph 1 of the following page.  
+[https://www.mofa.go.jp/ca/cp/page22e\_000925.html#section1](https://www.mofa.go.jp/ca/cp/page22e_000925.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+
+Please also refer to [7\. Entry of foreign nationals with special exceptional circumstances](https://www.japan.travel/en/coronavirus/#circumstances) below for further information.
+
+**Quarantine measures : Change of self-quarantine period after entry into Japan**  
+From 12:00 am (Midnight/JST) on March 1, 2022, based on whether they obtain a valid COVID-19 vaccination certificate and enter/return from designated countries/regions, self-quarantine period and place of accommodation after their entry into Japan may be changed.  
+Please refer to [3\. Quarantine measures](https://www.japan.travel/en/coronavirus/#quarantine) for further information.
+
+**Suspension of visa validity**  
+From 12:00 am (Midnight/JST) December 2, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended, except for those issued for the holders of status of residence as “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”.   
+Please refer to [4. Suspension of visa validity](https://www.japan.travel/en/coronavirus/#visa_validity) below for further information.
+
 **1\. Areas subjected to entry ban**
 
 For the time being, foreign nationals who have stayed in any of the areas listed in the following table within 14 days prior to the application for landing are denied to enter Japan, unless special exceptional circumstances are found.   
