@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: March 30, 2022
+Last updated: April 6, 2022
 
 ### Table of Contents
 
@@ -49,42 +49,67 @@ Please also refer to [7\. Entry of foreign nationals with special exceptional ci
 From 12:00 am (Midnight/JST) on March 1, 2022, based on whether they obtain a valid COVID-19 vaccination certificate and enter/return from designated countries/regions, self-quarantine period and place of accommodation after their entry into Japan may be changed.  
 Please refer to [3\. Quarantine measures](https://www.japan.travel/en/coronavirus/#quarantine) for further information.
 
+For FAQ about the Quarantine measures, please see the following page.  
+[https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html](https://www.mhlw.go.jp/stf/covid-19/bordercontrol.html) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
+
 **Suspension of visa validity**  
 From 12:00 am (Midnight/JST) December 2, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended, except for those issued for the holders of status of residence as “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”.   
-Please refer to [4. Suspension of visa validity](https://www.japan.travel/en/coronavirus/#visa_validity) below for further information.
+Please refer to [4. Suspension of visa validity](https://www.japan.travel/en/coronavirus/#visa_validity) below for further information.  
+From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries wil be suspended.  
+Albania, Bolivia, Brazil, Canada, Chile, Ecuador, Mauritius, Montenegro, Morocco, North Macedonia, Panama, Serbia, Turkey and United State of America
 
 **1\. Areas subjected to entry ban**
 
-For the time being, foreign nationals who have stayed in any of the areas listed in the following table within 14 days prior to the application for landing are denied to enter Japan, unless special exceptional circumstances are found.   
-Note that foreigners from the countries/regions where the entry bans do not apply are not denied to enter Japan, even when traveling via those countries/regions listed in the table for refueling or transit purpose. Those who entered those countries/regions are, however, subject to the entry ban.
+For the time being, foreign nationals who have stayed in any of the areas listed in the following table within 14 days prior to the application for landing are denied to enter Japan, unless special exceptional circumstances are found.  
+Note that foreigners from the countries/regions where the entry bans do not apply are not denied to enter Japan, even when traveling via those countries/regions listed in the table for refueling or transit purpose. Those who entered those countries/regions are, however, subject to the entry ban.  
+  
+The following 106 countries will not be subject to denial of permission to enter Japan from 12:00 am (Midnight/JST) on April 8, 2022.  
+  
+Asia: Bangladesh, Bhutan, Cambodia, India, Indonesia, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Timor-Leste  
+  
+Oceania: Fiji  
+  
+North America: Canada, United States of America  
+  
+Latin America and the Caribbean: Argentine, Antigua and Barbuda, Bahamas, Barbados, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Guyana, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Christopher and Nevis, Suriname, Trinidad and Tobago, Uruguay, Venezuela  
+  
+Europe: Albania, Andorra, Austria, Azerbaijan, Belgium, Croatia, Cyprus, Czech Republic, Denmark, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, United Kingdom, Uzbekistan, Vatican  
+  
+Middle East: Bahrain, Israel, Iran, Jordan, Kuwait, Oman, Qatar, Saudi Arabia, Turkey, United Arab Emirates  
+  
+Africa: Botswana, Cabo Verde, Mauritius, Morocco, Mozambique, Rwanda, Seychelles, Tunisia  
+  
+Please see the following page for further information about the denial of landing to prevent the spread of COVID-19.
+
+[https://www.isa.go.jp/en/hisho06\_00099.html](https://www.isa.go.jp/en/hisho06_00099.html) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
 
 Asia
 
-Bangladesh, Bhutan, Cambodia, India, Indonesia, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Timor-Leste
+ 
 
 Oceania
 
-Fiji
+ 
 
 North America
 
-Canada, United States of America
+ 
 
 Latin America and the Caribbean
 
-Argentine, Antigua and Barbuda, Bahamas, Barbados, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Christopher and Nevis, Saint Vincent and the Grenadines, Saint Lucia, Suriname, Trinidad and Tobago, Uruguay, Venezuela
+Grenada, Guatemala, Haiti, Jamaica, Saint Vincent and the Grenadines, Saint Lucia
 
 Europe
 
-Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Kosovo, Kyrgyz, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tajikistan, Ukraine, United Kingdom, Uzbekistan, Vatican
+Armenia, Belarus, Bosnia and Herzegovina, Bulgaria, Estonia, Kyrgyz, Moldova, Russia, Slovakia, Ukraine
 
 Middle East
 
-Afghanistan, Bahrain, Israel, Iran, Iraq, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Turkey, United Arab Emirates
+Afghanistan, Iraq, Lebanon, Palestine
 
 Africa
 
-Algeria, Angola, Botswana, Cabo Verde, Cameroon, Central Africa, Comoros, Cote d’lvoire, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Nigeria, Republic of Congo, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tunisia, Zambia, Zimbabwe
+Algeria, Angola, Cameroon, Central Africa, Comoros, Cote d’lvoire, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritania, Namibia, Nigeria, Republic of Congo, Sao Tome and Principe, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Zambia, Zimbabwe
 
 For details, please check the following page.  
 [https://www.mofa.go.jp/ca/fna/page4e\_001053.html#section1](https://www.mofa.go.jp/ca/fna/page4e_001053.html#section1) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg)
@@ -178,8 +203,13 @@ For details, please check the following page.
 
 **5\. Suspension of visa exemption measures**
 
-As visa exemption measures with the countries/regions listed below are temporarily suspended, those who fall under the measures are required to obtain visas before visiting Japan.   
-The measures will be in place for the time being.
+As visa exemption measures with the countries/regions listed below are temporarily suspended, those who fall under the measures are required to obtain visas before visiting Japan.  
+The measures will be in place for the time being.  
+  
+From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries will be suspended.
+
+  
+Albania, Bolivia, Brazil, Canada, Chile, Ecuador, Mauritius, Montenegro, Morocco, North Macedonia, Panama, Serbia, Turkey and United State of America
 
 (1) Visa exemption measures agreed with Japan and the following countries and regions
 
