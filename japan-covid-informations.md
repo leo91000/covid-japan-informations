@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: April 6, 2022
+Last updated: April 7, 2022
 
 ### Table of Contents
 
@@ -55,7 +55,7 @@ For FAQ about the Quarantine measures, please see the following page.
 **Suspension of visa validity**  
 From 12:00 am (Midnight/JST) December 2, 2021, as an emergency precautionary measure from a preventive perspective against coronavirus variant Omicron (B.1.1.529), validity of visas already issued by December 2, 2021 is suspended, except for those issued for the holders of status of residence as “Spouse or Child of a Japanese National”, “Spouse or Child of a Permanent Resident” or “Diplomat”.   
 Please refer to [4. Suspension of visa validity](https://www.japan.travel/en/coronavirus/#visa_validity) below for further information.  
-From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries wil be suspended.  
+From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries are suspended.  
 Albania, Bolivia, Brazil, Canada, Chile, Ecuador, Mauritius, Montenegro, Morocco, North Macedonia, Panama, Serbia, Turkey and United State of America
 
 **1\. Areas subjected to entry ban**
@@ -63,7 +63,7 @@ Albania, Bolivia, Brazil, Canada, Chile, Ecuador, Mauritius, Montenegro, Morocco
 For the time being, foreign nationals who have stayed in any of the areas listed in the following table within 14 days prior to the application for landing are denied to enter Japan, unless special exceptional circumstances are found.  
 Note that foreigners from the countries/regions where the entry bans do not apply are not denied to enter Japan, even when traveling via those countries/regions listed in the table for refueling or transit purpose. Those who entered those countries/regions are, however, subject to the entry ban.  
   
-The following 106 countries will not be subject to denial of permission to enter Japan from 12:00 am (Midnight/JST) on April 8, 2022.  
+The following 106 countries are not subject to denial of permission to enter Japan from 12:00 am (Midnight/JST) on April 8, 2022.  
   
 Asia: Bangladesh, Bhutan, Cambodia, India, Indonesia, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka, Thailand, Timor-Leste  
   
@@ -206,7 +206,7 @@ For details, please check the following page.
 As visa exemption measures with the countries/regions listed below are temporarily suspended, those who fall under the measures are required to obtain visas before visiting Japan.  
 The measures will be in place for the time being.  
   
-From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries will be suspended.
+From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries are suspended.
 
   
 Albania, Bolivia, Brazil, Canada, Chile, Ecuador, Mauritius, Montenegro, Morocco, North Macedonia, Panama, Serbia, Turkey and United State of America
