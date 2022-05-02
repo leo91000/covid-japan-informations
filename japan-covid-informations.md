@@ -1,7 +1,7 @@
 Coronavirus (COVID-19) travel restrictions
 ==========================================
 
-Last updated: April 7, 2022
+Last updated: April 28, 2022
 
 ### Table of Contents
 
@@ -204,12 +204,7 @@ For details, please check the following page.
 **5\. Suspension of visa exemption measures**
 
 As visa exemption measures with the countries/regions listed below are temporarily suspended, those who fall under the measures are required to obtain visas before visiting Japan.  
-The measures will be in place for the time being.  
-  
-From 12:00 am (Midnight/JST) on April 8, 2022, visa exemption measures for the following 14 countries are suspended.
-
-  
-Albania, Bolivia, Brazil, Canada, Chile, Ecuador, Mauritius, Montenegro, Morocco, North Macedonia, Panama, Serbia, Turkey and United State of America
+The measures will be in place for the time being.
 
 (1) Visa exemption measures agreed with Japan and the following countries and regions
 
@@ -221,21 +216,25 @@ Oceania
 
 Australia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Solomon
 
+North America
+
+Canada, United States of America
+
 Latin America and the Caribbean
 
-Argentine, Bahamas, Barbados, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Mexico, Paraguay, Peru, Suriname, Uruguay
+Argentine, Bahamas, Barbados, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Panama, Paraguay, Peru, Suriname, Uruguay
 
 Europe
 
-Andorra, Austria, Azerbaijan, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkmenistan, Ukraine, United Kingdom, Uzbekistan, Vatican
+Albania, Andorra, Austria, Azerbaijan, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Netherlands, North Macedonia, Norway, Montenegro, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkmenistan, Ukraine, United Kingdom, Uzbekistan, Vatican
 
 Middle East
 
-Israel, Iran, Oman, Qatar, United Arab Emirates
+Israel, Iran, Oman, Qatar, Turkey, United Arab Emirates
 
 Africa
 
-Lesotho, Tunisia
+Lesotho, Mauritius, Morocco, Tunisia
 
 (2) The effect of Pre-Clearances (i.e. visa exemptions) granted by the Japanese Government to APEC Business Travel Card (ABTC) issued by the following countries and regions is also suspended.
 
